@@ -1,4 +1,6 @@
-# MCEmojiPicker
+# MCEmojiPicker (Fork with Search Capability)
+
+## This is a fork of the [MCEmojiPicker](https://github.com/izyumkin/MCEmojiPicker) repo, but with the capability added to search for emojis. Currently this is a rudimentary first-pass. It's a bit buggy, but it does allow you to search somewhat.
 
 [![Version](https://img.shields.io/cocoapods/v/MCEmojiPicker.svg?style=flat)](https://cocoapods.org/pods/MCEmojiPicker)
 [![License](https://img.shields.io/cocoapods/l/MCEmojiPicker.svg?style=flat)](https://cocoapods.org/pods/MCEmojiPicker)
